@@ -1,0 +1,4 @@
+//Reference za Random Forest
+https://pubmed.ncbi.nlm.nih.gov/15759657/
+https://pubmed.ncbi.nlm.nih.gov/22937126/
+https://academic.oup.com/bioinformatics/article/21/24/4394/180192

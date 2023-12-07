@@ -1,0 +1,6 @@
+Cluster 1: A, G, P, S, T - These amino acids are generally small and/or have aliphatic side chains.
+Cluster 2: C, M - These amino acids have sulfur-containing side chains.
+Cluster 3: D, E, N, Q - These amino acids have polar side chains with potential for hydrogen bonding.
+Cluster 4: F, W, Y - These amino acids have aromatic side chains.
+Cluster 5: H, K, R - These amino acids have basic side chains.
+Cluster 6: I, L, V - These amino acids have hydrophobic side chains.
